@@ -1,8 +1,8 @@
 
-
-<br>## Hi there 👋 , I'm <br>
-<br>John Paul Sernicula<br>Paglinawan<br><br>BS Information Technology Student<br><br>
-# 💫 About Me:<br>Frontend Developer<br>I build clean, responsive interfaces for the web.<br><br>Learning to Be Full Stack<br>I'm growing into back-end work: databases, APIs and servers.<br><br>I'm a Vibe Coder<br>I build fast with AI tools and keep learning as I ship.<br><br>
+## Hi there 👋 
+<br># I'm, John Paul Sernicula<br>Paglinawan<br><br>BS Information Technology Student<br><br>
+# 💫 About Me:
+<br>Frontend Developer<br>I build clean, responsive interfaces for the web.<br><br>Learning to Be Full Stack<br>I'm growing into back-end work: databases, APIs and servers.<br><br>I'm a Vibe Coder<br>I build fast with AI tools and keep learning as I ship.<br><br>
 
 
 ## 🌐 Socials:
