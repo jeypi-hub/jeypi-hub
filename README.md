@@ -51,12 +51,4 @@
 
 ![](https://www.gitskins.com/api/section/highlights?username=jeypi-hub&theme=github-dark&mode=dark)
 
-### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=jeypi-hub&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-<p align="center"><sub>Jeypi · <a href="https://www.gitskins.com/readme-generator?template=community-marzzzsiam-hashtag-001-3slh">MarzzzSiam Hashtag 001</a> template by <a href="https://www.gitskins.com/creators/MarzzzSiam">@MarzzzSiam</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
