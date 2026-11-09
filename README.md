@@ -16,7 +16,6 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <ul>
-  <li><em>.</em></li>
   <li><em>I'm BS Information Technology Student.</em></li>
   <li><em>I care about clean code, simple interfaces and tools people actually enjoy using.</em></li>
   <li><em>Learning to be a Full-Stack Developer.</em></li>
