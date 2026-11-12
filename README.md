@@ -43,7 +43,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=jeypi-hub&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=true)
-![](https://streak-stats.demolab.com/?user=jeypi-hub&theme=discord_old_blurple&hide_border=true)
+![](https://streak-stats.demolab.com/?user=jeypi-hub&theme=discord_old_blurple&hide_border=true)<br>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jeypi-hub&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
