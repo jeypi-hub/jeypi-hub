@@ -4,9 +4,11 @@
 <em>I'm A Frontend Developer.</em>
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF¢er=true&vCenter=true&width=900&lines=Welcome+to+My+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00C2FF¢er=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub+%F0%9F%91%8B" alt="Typing SVG" />
+  </p>
+</div>
 
 <table>
 <tr>
