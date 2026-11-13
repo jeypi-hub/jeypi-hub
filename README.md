@@ -35,14 +35,6 @@
 
 <div align="center">
 
-  <h2>🌐 Socials</h2>
-
-  <p>
-    <a href="https://www.facebook.com/SerniculaPaglinawanJanpol"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
-    <a href="https://www.linkedin.com/in/john-paul-paglinawan-a20b41448"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-    <a href="mailto:johnpaulserniculapaglinawan17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
-  </p>
-
   <h2>💻 Tech Stack</h2>
 
   <p>
@@ -82,4 +74,12 @@
   <br>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jeypi-hub&theme=discord_old_blurple&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
 
+<h2>🌐 Socials</h2>
+
+  <p>
+    <a href="https://www.facebook.com/SerniculaPaglinawanJanpol"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/john-paul-paglinawan-a20b41448"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:johnpaulserniculapaglinawan17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  </p>
+  
 </div>
